@@ -1,1 +1,1 @@
-[![Launch ESG Dashboard](https://img.shields.io/badge/Launch_ESG_Simulator-2EA043?style=for-the-badge&logo=streamlit&logoColor=white)]([YOUR_STREAMLIT_LINK_HERE](https://esg-hotel-dashboard-mcczebxdhrrsgcuazjryuj.streamlit.app/))
+[![Launch ESG Dashboard](https://img.shields.io/badge/Launch_ESG_Simulator-2EA043?style=for-the-badge&logo=streamlit&logoColor=white)](https://esg-hotel-dashboard-mcczebxdhrrsgcuazjryuj.streamlit.app/)
